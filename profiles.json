@@ -1,0 +1,16 @@
+{
+  "profiles": [
+    {
+      "id": "profile_1777619240166",
+      "name": "Alex Sơn",
+      "color": "#25D366",
+      "created_at": "1777619240"
+    },
+    {
+      "id": "profile_1777619270649",
+      "name": "N next",
+      "color": "#25D366",
+      "created_at": "1777619270"
+    }
+  ]
+}
