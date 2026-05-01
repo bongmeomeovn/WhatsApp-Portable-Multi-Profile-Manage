@@ -1,0 +1,7 @@
+{
+  "$schema": "../gen/schemas/desktop-schema.json",
+  "identifier": "whatsapp",
+  "description": "Capability for whatsapp windows",
+  "windows": ["whatsapp_*"],
+  "permissions": []
+}
